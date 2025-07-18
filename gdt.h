@@ -1,0 +1,9 @@
+#ifndef GDT_HEADER
+#define GDT_HEADER
+
+#define GDT_NULL 0x0000000000000000
+#define GDT_CS   0x00AF9A000000FFFF
+#define GDT_DS   0x00CF92000000FFFF
+
+
+#endif
