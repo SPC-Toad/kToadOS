@@ -64,6 +64,10 @@ I’m documenting everything along the way, and plan to publish an in-depth tech
         ```
 ### Visual Demo:
 
+
+https://github.com/user-attachments/assets/323172d3-8ef8-4864-a186-e437d98b7b1b
+
+
 ## Sprint 2 7/18/2025 - TBD
 - Goal: Enter long mode, build real 64-bit environment, and switch from legacy VGA to framebuffer.
 
